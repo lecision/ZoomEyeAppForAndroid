@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZoomEye</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_global">global</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+</resources>
